@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Function that returns "Best School" 10x
 
 count=0
